@@ -13,8 +13,8 @@ because I'm really bad at flags 😅
 **Tech I use:** JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind CSS, Bootstrap, Node.js, Git
 
 **Things I've built**
-- [Portfolio](https://github.com/rimjhimyadav/rimjhimyadav.github.io) - my portfolio site, made with React and Vite ([live](https://rimjhimyadav.github.io))
-- [Anime Finder](https://github.com/rimjhimyadav/anime-finder) - search anime and keep your own watch list, uses the AniList GraphQL API
+- [Portfolio](https://github.com/rimjhimyadav/rimjhimyadav.github.io) - my portfolio site, made with React, Vite and Tailwind CSS ([live](https://rimjhimyadav.github.io))
+- [Anime Finder](https://github.com/rimjhimyadav/anime-finder) - find anime, check what's airing this week and keep your own watch list. Made with React and the AniList GraphQL API ([live](https://rimjhimyadav.github.io/anime-finder/))
 - [Country Explorer](https://github.com/rimjhimyadav/country-explorer) - every country in one place, plus a flag and capital quiz
 - [Pokédex](https://github.com/rimjhimyadav/pokedex) - all 1025 Pokémon with stats, cries and shiny forms
 - [Weather App](https://github.com/rimjhimyadav/weather-app) - current weather and a 5 day forecast for any city
