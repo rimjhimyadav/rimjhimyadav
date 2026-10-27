@@ -2,7 +2,7 @@
 
 Hey! 👋 I write frontend code, mostly JavaScript and React, and I just finished my MCA.
 
-Most of my projects started as "can I build that?" An anime search app because I watch
+Most of my projects started as "can I build that?" A movie and anime tracker because I watch
 way too much anime, a Pokédex because who doesn't like Pokémon, and a country quiz
 because I'm really bad at flags 😅
 
@@ -14,7 +14,7 @@ because I'm really bad at flags 😅
 
 **Things I've built**
 - [Portfolio](https://github.com/rimjhimyadav/rimjhimyadav.github.io) - my portfolio site, made with React, Vite and Tailwind CSS ([live](https://rimjhimyadav.github.io))
-- [Anime Finder](https://github.com/rimjhimyadav/anime-finder) - find anime, check what's airing this week and keep your own watch list. Made with React and the AniList GraphQL API ([live](https://rimjhimyadav.github.io/anime-finder/))
+- [Reelmark](https://github.com/rimjhimyadav/reelmark) - track the movies, shows and anime you watch, tick off episodes and see your watch stats. Made with React, Tailwind CSS, Zustand and the TMDB API ([live](https://rimjhimyadav.github.io/reelmark/))
 - [Country Explorer](https://github.com/rimjhimyadav/country-explorer) - every country in one place, plus a flag and capital quiz
 - [Pokédex](https://github.com/rimjhimyadav/pokedex) - all 1025 Pokémon with stats, cries and shiny forms
 - [Weather App](https://github.com/rimjhimyadav/weather-app) - current weather and a 5 day forecast for any city
