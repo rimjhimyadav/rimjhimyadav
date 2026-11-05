@@ -14,7 +14,7 @@ because I'm really bad at flags 😅
 
 **Things I've built**
 - [Portfolio](https://github.com/rimjhimyadav/rimjhimyadav.github.io) - my portfolio site, made with React, Vite and Tailwind CSS ([live](https://rimjhimyadav.github.io))
-- [Reelmark](https://github.com/rimjhimyadav/reelmark) - track the movies, shows and anime you watch, tick off episodes and see your watch stats. Made with React, Tailwind CSS, Zustand and the TMDB API ([live](https://rimjhimyadav.github.io/reelmark/))
+- [Reelmark](https://github.com/rimjhimyadav/reelmark) - track the movies, shows and anime you watch, tick off episodes and see your watch stats. Made with React, TypeScript, Tailwind CSS, Zustand and the TMDB API ([live](https://rimjhimyadav.github.io/reelmark/))
 - [Git Wanted](https://github.com/rimjhimyadav/gitwanted) - your GitHub year as a GTA-inspired crime story: wanted level, weapon wheel, criminal record and a Most Wanted poster. Made with React, TypeScript and the GitHub API ([live](https://rimjhimyadav.github.io/gitwanted/))
 - [Clackr](https://github.com/rimjhimyadav/clackr) - a typing test where you race a ghost of your best run, with a heatmap of the keys you miss and mechanical keyboard sounds. Made with React, TypeScript and Zustand ([live](https://rimjhimyadav.github.io/clackr/))
 - [Country Explorer](https://github.com/rimjhimyadav/country-explorer) - every country in one place, plus a flag and capital quiz
